@@ -9,17 +9,17 @@ We welcome contributions to the Phishing Detection System! Please follow these g
    ```bash
    git clone https://github.com/webpro255/phishing-detection-system.git
 
-### Create a new branch for your feature or bugfix:
-```bash
-git checkout -b my-feature-branch
-```
-### Make your changes and commit them with descriptive messages:
-```bash
-git commit -m "Add feature X"
-```
-### Push your changes to your fork:
-```bash
-git push origin my-feature-branch
+3. Create a new branch for your feature or bugfix:
+   ```bash
+  git checkout -b my-feature-branch
+  
+4. Make your changes and commit them with descriptive messages:
+  ```bash
+   git commit -m "Add feature X"
+
+5. Push your changes to your fork:
+  ```bash
+ git push origin my-feature-branch
 ```
 
 Open a pull request on the main repository.
