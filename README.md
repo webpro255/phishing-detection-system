@@ -1,2 +1,11 @@
-# phishing-detection-system
-A real-time phishing detection and alert system leveraging community-sourced intelligence.
+# Phishing Detection System
+
+## Overview
+This system aims to detect phishing attempts in real-time by checking URLs against a community-sourced database.
+
+## Local Development
+To run this project locally:
+
+```bash
+npm install
+node src/index.js
