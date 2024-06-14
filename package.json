@@ -1,0 +1,14 @@
+{
+  "name": "phishing-detection-system",
+  "version": "1.0.0",
+  "description": "A real-time phishing detection and alert system leveraging community-sourced intelligence.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Grice",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
