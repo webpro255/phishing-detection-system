@@ -19,8 +19,8 @@ We welcome contributions to the Phishing Detection System! Please follow these g
   ```
 5. Push your changes to your fork:
   ```bash
- git push origin my-feature-branch
- ```
+   git push origin my-feature-branch
+  ```
 
 Open a pull request on the main repository.
 
