@@ -4,11 +4,17 @@
   "description": "A real-time phishing detection and alert system leveraging community-sourced intelligence.",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node src/index.js",
+    "test": "mocha"
   },
   "author": "David Grice",
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "mocha": "^9.0.0",
+    "supertest": "^6.0.0",
+    "chai": "^4.3.4"
   }
 }
